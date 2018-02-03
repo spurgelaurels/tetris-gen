@@ -1,6 +1,10 @@
+// tetromino generator for silliness
+// 2018 daphne reed
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
+
 
 int main(void) {
   srand(time(NULL));  
