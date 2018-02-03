@@ -6,7 +6,7 @@ It outputs a random tetromino as its base function.  Then I manually draw that t
 
 | Language | Tetromino | SMTP | Daemon mode | Remote API | POSIX | Graphical Output | 
 | --- | --- | --- | --- | --- | --- | --- |
-| C | | | | | | | 
+| C | ✓ | | | | | | 
 | Ruby | | | | | | |
 | Go | | | | | | |
 | Python | | | | | | |
